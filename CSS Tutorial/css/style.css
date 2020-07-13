@@ -7,8 +7,17 @@ p{
   border-radius: 5px;
   color: white;
   padding: 10px;
-  text-align: center;
+  
 }
 .margin {
   margin: 5px 10px;
+}
+
+.padding {
+  padding: 50 px 30px 50px 80px;
+}
+
+.center, p {
+  max-width: 500px;
+  text-align: center;
 }
