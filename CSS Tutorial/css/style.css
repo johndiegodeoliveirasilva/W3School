@@ -2,6 +2,13 @@ body {
   background: rgb(138, 47, 212, 0.8);
   
 }
-p{ 
+p{
+  border: 2px solid white;
+  border-radius: 5px;
   color: white;
+  padding: 10px;
+}
+.margin {
+  margin: 5px 10px;
+
 }
